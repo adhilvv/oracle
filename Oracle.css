@@ -1,0 +1,215 @@
+.header{
+    width: 100%;
+    height: 70px;
+    background-color:black;
+    display: flex;
+    flex-direction: row;
+                        ;
+}
+.div-first{
+    height: 468px;
+    width: 100%;
+    background-color: brown;
+ background-image: url(img/background\ img\ 1.png);
+}
+.bttn1:hover{
+    cursor: pointer;
+}
+.div-second{
+    width: 100%;
+    height: 21cm;
+    display: flex;
+    flex-direction: column;
+}
+.div-second-1{
+    background-color:white;
+    height: 7cm;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.div-second-1-1{
+    width: 300px;
+    height: 100%;
+    background-color:white;
+}
+.div-second-1-2{
+    width: 300px;
+    height: 100%;
+    background-color: white;
+}
+.div-second-1-3{
+    width: 300px;
+    height: 100%;
+    background-color: white;
+}
+.div-second-2{
+    background-color:white;
+    height: 7cm;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.div-second-2-1{
+    width: 300px;
+    height: 100%;
+    background-color:white;   
+}
+.div-second-2-2{
+    width: 300px;
+    height: 100%;
+    background-color: white;  
+}
+.div-second-2-3{
+    width: 300px;
+    height: 100%;
+    background-color:white;
+}
+ .div-second-3{
+    background-color:white;
+    height: 7cm;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.div-second-3-1{
+    width: 300px;
+    height: 100%;
+    background-color: white;
+}
+.div-second-3-2{
+    width: 300px;
+    height: 100%;
+    background-color: white;
+}
+.div-second-3-3{
+    width: 300px;
+    height: 100%;
+    background-color:white;
+} 
+
+
+.div-third{
+    height: 19cm;
+    width: 100%;
+    background-color: rgb(233, 227, 227);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.div-third-1{
+    background-color:black;
+    height: 70%;
+    width: 25%;
+    border-radius: 30px;
+
+}
+.div-third-1-1{
+height: 60%;
+width: 100%;
+background-image: url(img/Screenshot\ \(64\)-1.png);
+border-radius: 30px;
+}
+.div-third-1-2{
+    height: 40%;
+    width: 100%;
+    background-color: brown;
+    background-image: url(img/div-3-1.webp);
+    border-radius: 30px;
+
+}
+.div-third-2{
+    background-color: black;
+    height: 70%;
+    width: 25%;
+    border-radius: 30px;
+
+}
+.div-third-2-1{
+    height: 60%;
+    width: 100%;
+    background-image: url(img/Screenshot\ \(65\)-2.png);
+    border-radius: 30px;
+}
+.div-third-2-2{
+    height: 40%;
+    width: 100%;
+    background-color: brown;
+    background-image: url(img/div-3-2.webp);
+    border-radius: 30px;
+}
+.div-third-3{
+    background-color:black;
+    height: 70%;
+    width: 25%;
+    border-radius: 30px;
+
+}
+.div-third-3-1{
+    height: 60%;
+    width: 100%;
+    background-image: url(img/Screenshot\ \(66\)-3.png);
+    border-radius: 30px;
+}
+.div-third-3-2{
+    height: 40%;
+    width: 100%;
+    background-color: brown;
+    background-image: url(img/div-3-3.jpg);
+    border-radius: 30px;
+
+}
+.div-fourth{
+    height: 80px;
+    width: 100%;
+    background-color:black;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    
+}
+.bttn2{
+    cursor: pointer;
+    height: 70%;
+    width: 130px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+}
+.div-fifth{
+    height: 500px;
+    width: 100%;
+    background-color:rgb(233 227 227 / 70%);
+
+}
+.sixth{
+    height: 300px;
+    width: 100%;
+    background-color:#2e2626;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 20px;
+    color: white;
+}
+.sixth li{
+    list-style: none;
+}
+.last{
+    height: 100px;
+    width: 100%;
+    background-color:#2e2626;
+    display: flex;
+    flex-direction: row;
+    background-size: 100%;
+}
